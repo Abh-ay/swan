@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606485250787",
+    "project_id": "swan-ed375",
+    "storage_bucket": "swan-ed375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606485250787:android:d7c3988df2ba0e0db93bd6",
+        "android_client_info": {
+          "package_name": "com.example.swan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606485250787-jq5ehpduguuq2ul6eab2us3cgjr80jbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50OetEGeE7juStdbWV8f8KGH092a-M9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606485250787-jq5ehpduguuq2ul6eab2us3cgjr80jbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
